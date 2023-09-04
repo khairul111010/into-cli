@@ -1,0 +1,32 @@
+{
+  "name": "iamkhairulhasan",
+  "version": "1.0.0",
+  "description": "A personal into for Khairul Hasan (khairul111010)",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "iamkhairulhasan": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khairul111010/into-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iamkhairulhasan",
+    "npx",
+    "npm"
+  ],
+  "author": "Khairul Hasan <khairul.hasan.dev@gmail.com> (https://khairul-hasan.netlify.app/)",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.10",
+    "open": "^9.1.0",
+    "ora": "^7.0.1"
+  }
+}
